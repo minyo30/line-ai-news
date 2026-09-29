@@ -1,0 +1,16 @@
+# 兆しとして通知しない言葉（1行に1つ）。よく出るけど興味がない言葉を足してください
+AI
+API
+CEO
+CTO
+IT
+DX
+PR
+LLM
+USA
+US
+UK
+EU
+PDF
+URL
+SNS

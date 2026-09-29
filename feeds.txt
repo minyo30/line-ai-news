@@ -1,0 +1,19 @@
+# サイト名, RSSのURL, 送り方, 既定の区分
+#   送り方 … filter（キーワードに合う記事だけ）／ all（全件）／ trend（通知せず兆し検知だけに使う）
+#   既定の区分 … all のときキーワードに合わない記事の行き先（industry=①業界 / ai=②AI）
+# ※記事にAIの言葉があれば②、業界の言葉があれば①に自動で振り分けます
+
+# --- 国内ニュース ---
+ITmedia AI+, https://rss.itmedia.co.jp/rss/2.0/aiplus.xml, all, ai
+日経xTECH, https://xtech.nikkei.com/rss/index.rdf, filter
+PR TIMES, https://prtimes.jp/index.rdf, filter
+THE BRIDGE, https://thebridge.jp/feed, filter
+
+# --- 海外（兆しが早く出る） ---
+Product Hunt, https://www.producthunt.com/feed, filter
+Hacker News, https://news.ycombinator.com/rss, filter
+a16z, https://a16z.com/feed/, all, ai
+Y Combinator, https://www.ycombinator.com/blog/rss/, all, ai
+
+# --- 兆し検知だけに使う ---
+Googleトレンド, https://trends.google.com/trending/rss?geo=JP, trend

@@ -1,0 +1,20 @@
+# ② AI活用事例・動向を拾う言葉（1行に1つ。英字は大文字小文字を区別しません）
+# 上にある言葉ほど優先して【】に表示されます
+導入事例
+活用事例
+case study
+FDE
+Forward Deployed
+AIエージェント
+agent
+業務効率
+自動化
+automation
+生成AI
+ChatGPT
+OpenAI
+Claude
+Anthropic
+Gemini
+LLM
+AI
